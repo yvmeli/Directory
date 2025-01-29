@@ -1,0 +1,10 @@
+G:\ITLA TAREAS\PROGRAMACIóN 2\Agenda2\SolAgenda\Agenda\bin\Debug\Agenda.exe.config
+G:\ITLA TAREAS\PROGRAMACIóN 2\Agenda2\SolAgenda\Agenda\bin\Debug\Agenda.exe
+G:\ITLA TAREAS\PROGRAMACIóN 2\Agenda2\SolAgenda\Agenda\bin\Debug\Agenda.pdb
+G:\ITLA TAREAS\PROGRAMACIóN 2\Agenda2\SolAgenda\Agenda\obj\Debug\Agenda.csproj.AssemblyReference.cache
+G:\ITLA TAREAS\PROGRAMACIóN 2\Agenda2\SolAgenda\Agenda\obj\Debug\Agenda.Form1.resources
+G:\ITLA TAREAS\PROGRAMACIóN 2\Agenda2\SolAgenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+G:\ITLA TAREAS\PROGRAMACIóN 2\Agenda2\SolAgenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.cache
+G:\ITLA TAREAS\PROGRAMACIóN 2\Agenda2\SolAgenda\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+G:\ITLA TAREAS\PROGRAMACIóN 2\Agenda2\SolAgenda\Agenda\obj\Debug\Agenda.exe
+G:\ITLA TAREAS\PROGRAMACIóN 2\Agenda2\SolAgenda\Agenda\obj\Debug\Agenda.pdb

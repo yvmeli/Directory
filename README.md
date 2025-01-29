@@ -1,4 +1,4 @@
-# Agenda System – .NET Framework
+# Directory System – .NET Framework
 
 ## Description  
 This project is a contact management system (agenda) developed using C# with the .NET Framework in Visual Studio. The application provides a complete CRUD (Create, Read, Update, Delete) system for managing contacts efficiently.
@@ -9,7 +9,7 @@ This project is a contact management system (agenda) developed using C# with the
 - **Categorization:** Organize contacts into different categories.  
 - **User-Friendly interface:** Built using Windows Forms for an intuitive user experience.
 
-## Technologies Used  
+## Technologies used  
 - **C# .NET Framework** – Developed using C# in Visual Studio with the .NET Framework.  
 - **Windows Forms Application** – The user interface is designed using Windows Forms.  
 

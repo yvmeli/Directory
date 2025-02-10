@@ -19,4 +19,8 @@ This system provides an efficient way to manage personal or professional contact
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yvmeli/Agenda-system.git
+   git clone https://github.com/yvmeli/Agenda-system.gitr
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@ymt/30-nites-of-code)  
+  ![@ymt #30NitesOfCode](https://www.codedex.io/api/petStatus?user=ymt)
